@@ -1,7 +1,7 @@
 module.exports = {
     FB_PAGE_TOKEN: 'EAAETnGEUyvABAI7WVTajV9y1ernFqJvzaiytM5oMqWskSir4H8evtSIJvZA8PU0NohC2gX9Ro8ImI0LkM6fRoyssfYE4sn9O5G8Rt7qKbOo74d0nnWcmfvaZBL8STDfavPDOdYcnsJ79vgOsV1oDuz1ZBZA3ZCQKHTVH1I4A0WsHmZCouATjZCUBGTj6Bo5lpUZD',
     FB_VERIFY_TOKEN: 'abc',
-    FB_APP_SECRET: '52eb5b5de0a281d2cb9f0eeaaa6b7',
+    FB_APP_SECRET: '52eb5b5de0a281d2cb9f0eeaaa6b72f1',
     SERVER_URL: 'https://git.heroku.com/kibot81.git',
     GOOGLE_PROJECT_ID: 'kiboteightyone-9kfp',
     DF_LANGUAGE_CODE: 'zh-tw',
