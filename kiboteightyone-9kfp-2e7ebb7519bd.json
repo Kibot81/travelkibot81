@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kiboteightyone-9kfp",
+  "private_key_id": "2e7ebb7519bd6cd4fc95ac0d8be0068426bf5530",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPoRlc9qzBEAdY\nJBLnceiWA5Vh515FS5x4XvREwV5DrovIX5eFzJQZa91L3op9DO3NdAcAC1/6NKAh\nVP6OPjM5stYz+Ht/69fQj26KjCLehrCH6eyqGxQIPG5UUXKVomXWyMjEmxInmDd0\nrTf4AQBkHNuvzCcOfR37WjJBY5nONAYBlLjhweTJkOg1dfJALIpKu/Wi30Lj8nnp\n4i/w10wjGxwt89esTc+V9ZxGtJwWfBRLEep1j2+C4e4oMWvMjRFGZPr//xr2TlWH\nX5IGqKZ45Nl4RP34C5eVsgPO+7YKsUVeGxmK9fGSt9DB6IoIKID7Yh7RV/KP63HD\ngjMGHS7fAgMBAAECggEAAtcY0jk7nr554z5HFexsepTc98Ri+T6yCsF9xO0CPZnH\nJrwMBhQI2JotokqOiWxiWmOibuE49GLA6APSIZ7/M2RbYsWc5uCSiLNVl0aYeYPN\nKWbNSnxpVz2AYt3kW+CnVPtVJ79ZTbpa09lEwTs+RqBQbwSzahLTFKuksVlL8tKk\nCDu01LJw97/Nw9SLtfO0b9ALkBa8ukB+/+XN9lSCNqbTiRyuaMvH5+0Uj+tRS6uS\nJel2SkbQLd4eCa5D0sEXmTsKo3pATgCLMbZye1h+zHScWkansWF+MgJcmRIXBTBY\nW+77K4blEdNS7T1abWSxQAtOYOoxpf4EHiflg/LzvQKBgQD6NrJDMFAlwDqMmODH\nCUpKJW9OOYJaJpCDcklWaapqwSUb6lV+LiDdIInp5REG0FZDcKlVUKY18j8Jm3TZ\nFj/tqpyVLJvXy9RJEuP1XCvJYJ8j5OV0LJEBSQyV2ztDjIQ2Nzd5ZQq6H1ixEaG+\nAluF3c5+ZLJ9WbmwoiGL8Zdt+wKBgQDUbkv0OLg7Ms7bpQ+Ec3IPKwQECTAhI9VB\nUBqIGz5t+QIVaa2e46LS2IMdm3+KtkQi9IFeP93QtvVx9QU+5XEpOjnM59YeHT3i\nHqIbOdfFjPKGWUK0wrdjeFHfw94edcpi4fknyM80Y7JKgO/wyfFZI2oZuN5oc4qs\nYOjQPoIhbQKBgQDMp5g+5HFpr0U0YobXxX2CEARuUxOPcSOaoAvkJiFBmCEmKBEt\nV8WBmG+1Y6r9i8JC/w9BvOl2DmIJFaIJPe2kE3xnd0kwxIMqEc1qjq0x1VnVHg+f\naiRgjMNCf0KGCZTKU3eIT2Dqw2Dj06wbogoCAF45e1uSs6TyGGqf8EcPqQKBgHa/\njU/hIQNenInl1C3LRxg5iI4lALWVzVEsURiCejyJdOO5Zmeqgktw4qJ7WSmWR7Ju\nkZ64/ur8S2o/eIY3RjGwrbzgYC4HVJ+BVkb356kz6CK35PUc390H1mTKnfDTEaaD\nAX9+3m0/yduiBf7JNFQK2vW0BQfIht1jcuFt/9plAoGAKrxcbWGZ6ueErYnMPIVT\nf2JMWSiUHipYrQ4nepERG6+Nm56Nfy1av6drtFk2oTtA4g3KVXEkWi0kn48+c6jU\nPfhgTitGKiAhtdm0YYMzWXX5etIy9M3hAPLUnOWnRSFHctR/PimPnRitjiMDqe6x\nBn0DzRFoysAhHCJApuYQp78=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kibotservice@kiboteightyone-9kfp.iam.gserviceaccount.com",
+  "client_id": "112653079781688684268",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kibotservice%40kiboteightyone-9kfp.iam.gserviceaccount.com"
+}
