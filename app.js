@@ -10,10 +10,10 @@ const bodyParser = require('body-parser');
 const request = require('request');
 const app = express();
 const uuid = require('uuid');
-const wapikey = "CWB-9CF20E34-2234-49C1-8561-1E70869054E4";
+const wapikey = "CWB-XXXXX";
 const wurl = 'https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-C0032-001';
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb+srv://chenchiyo99:cocochiyo99@cluster0.w0yom.gcp.mongodb.net/anything?retryWrites=true&w=majority";
+var url = "mongodb+srv://XXXXX";
 var searchtype;
 var formonmessage,mongotemp,mongoresult,getwresult;
 var sender = 4185808104775303;
@@ -160,8 +160,8 @@ function getGoogleSearch(Query){
 				"https://www.googleapis.com/customsearch/v1",
 				{
 					params: {
-						cx: "30186518590ab80b3",
-						key: "AIzaSyDRRW_RtDdJ88PuhjzcUnCqzupzQSse_m0",
+						cx: "XXXXX",
+						key: "XXXXX",
 						q: Query
 					}
 				});
@@ -197,7 +197,7 @@ function getWeather(location,searchtime){
 				"https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-C0032-001",
 				{
 					params: {
-						Authorization: "CWB-9CF20E34-2234-49C1-8561-1E70869054E4",
+						Authorization: "CWB-XXXXX",//同wapikey
 						locationName: location
 					}
 				});
@@ -325,7 +325,7 @@ function getDirection(location1,location2,dtype){
 						origin: location1,
 						destination: location2,
 						// mode: "transit",
-						key: "AIzaSyDRRW_RtDdJ88PuhjzcUnCqzupzQSse_m0"
+						key: "XXXXX"
 					}
 				});
 
@@ -349,7 +349,7 @@ function getDirection(location1,location2,dtype){
 						origin: location1,
 						destination: location2,
 						mode: "transit",
-						key: "AIzaSyDRRW_RtDdJ88PuhjzcUnCqzupzQSse_m0"
+						key: "XXXXX"
 					}
 				});
 
@@ -371,7 +371,7 @@ function getDirection(location1,location2,dtype){
 						origin: location1,
 						destination: location2,
 						mode: "transit",
-						key: "AIzaSyDRRW_RtDdJ88PuhjzcUnCqzupzQSse_m0"
+						key: "XXXXX"
 					}
 				});
 
